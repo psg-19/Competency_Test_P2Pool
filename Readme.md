@@ -31,8 +31,8 @@ All operations are performed via the Bitcoin Core JSON-RPC interface, and the bl
 ## How to Run
 - **Clone the repo**
   ```bash
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone https://github.com/psg-19/Competency_Test_P2Pool.git
+  cd  .\Competency_Test_P2Pool\
 
 - **Make the Script Executable:**
    ```bash
